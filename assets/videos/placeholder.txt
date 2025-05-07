@@ -1,0 +1,13 @@
+Please add the following video files to this directory:
+
+1. project1.mp4 - Demo of Women Safety App
+2. project2.mp4 - Demo of NumEye project
+3. project3.mp4 - Demo of MeasureMate project
+
+For optimal presentation, videos should:
+- Be in MP4 format
+- Have dimensions of 1280x720 or 1920x1080
+- Be under 10MB each
+- Loop well (starts and ends smoothly)
+
+You can replace these with your actual project demo videos, maintaining the same filenames or updating the references in the HTML file. 
