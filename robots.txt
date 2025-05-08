@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Allow all bots to index the entire website
+Disallow: /assets/private/
+
+# Sitemap location
+Sitemap: https://akashpatil.com/sitemap.xml 

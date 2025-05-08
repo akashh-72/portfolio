@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Main Pages -->
+  <url>
+    <loc>https://akashpatil.com/</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>1.00</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- Location-Specific Pages -->
+  <url>
+    <loc>https://akashpatil.com/kolhapur</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/sangli</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/satara</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/ichalkaranji</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/karad</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- Service Pages -->
+  <url>
+    <loc>https://akashpatil.com/services/web-development</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/services/android-development</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/services/website-design</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://akashpatil.com/services/ecommerce-development</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Portfolio Pages -->
+  <url>
+    <loc>https://akashpatil.com/portfolio</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://akashpatil.com/contact</loc>
+    <lastmod>2023-06-15T08:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset> 
