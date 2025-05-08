@@ -5,4 +5,4 @@ Allow: /
 Disallow: /assets/private/
 
 # Sitemap location
-Sitemap: https://akashpatil.com/sitemap.xml 
+Sitemap: https://akiweb.shop/sitemap.xml 
